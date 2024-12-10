@@ -6,14 +6,14 @@
       <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
     </div>
     <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="assets/images/Home/EZVIZ.png" class="d-block w-100 img-fluid" alt="...">
+      <div class="ratio ratio-21x9 carousel-item active">
+        <img src="assets/images/Home/alhua.jpg" class="d-block w-100 img-fluid" alt="...">
       </div>
-      <div class="carousel-item">
+      <div class="ratio ratio-21x9 carousel-item">
         <img src="assets/images/Home/bardi.jpg" class="d-block w-100 img-fluid" alt="...">
       </div>
-      <div class="carousel-item">
-        <img src="assets/images/Home/alhua.jpg" class="d-block w-100 img-fluid" alt="...">
+      <div class="ratio ratio-21x9 carousel-item">
+        <img src="assets/images/Home/EZVIZ.png" class="d-block w-100 img-fluid" alt="...">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">

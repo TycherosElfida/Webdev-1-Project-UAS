@@ -99,9 +99,8 @@
 
         <!-- bagian produk disini semua -->
         <div class="col-lg-9 col-md-8">
-            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 produk2">
+            <div class="row row-cols-1 row-cols-lg-2 g-4 produk2">
                 
-
             <div class="col" onclick="window.location.href='index.php?page=item'">
                     <div class="card shadow-sm">
                         <div class="row g-0">
@@ -134,7 +133,7 @@
                                 <div class="card-body">
                                     <h6 class="text-uppercase fw-bold text-muted mb-2">HIKVISION</h6>
                                     <h5 class="card-title fw-bold mb-3">DS-2CD2027G2-L(U)</h5>
-                                    <p class="card-text mb-3">2 MP ColorVu Fixed Mini Bullet Network Camera</p>
+                                    <p class="card-text mb-3">2 MP Smart Hybrid Light with ColorVu Fixed Mini Bullet Network Camera</p>
                                     <h5 class="text-primary fw-bold mb-0">Rp 1.111.111</h5>
                                     
                                     <div class="d-flex justify-content-end mt-2">

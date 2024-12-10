@@ -24,7 +24,7 @@
       </div>
 
       <!-- Contact Section -->
-      <div class="col-md-4 align-right">
+      <div class="col-md-4 align-right mb-3">
         <h5>Contact Us</h5>
         <p>
           <!-- ini beneran nomor saya  -->
