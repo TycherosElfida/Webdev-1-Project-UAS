@@ -36,7 +36,7 @@
                             <img src="assets/images/featured/海螺50-右侧视-无音孔.png" class="card-img-top" alt="Product Image">
                             <div class="card-body">
                                 <h5 class="card-title">HIKVISION DS-2CD2327G2-L(U)</h5>
-                                <p class="card-text">2 MP ColorVu Fixed Turret Network Camera.</p>
+                                <p class="card-text">2 MP ColorVu Fixed Turret Network Zoom Camera.</p>
                                 <p class="card-text"><strong>Rp. 899,000</strong></p>
                                 <a href="#" class="btn btn-primary" id="addToCart">Add to Cart</a>
                             </div>

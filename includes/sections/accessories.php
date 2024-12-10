@@ -10,7 +10,9 @@
                 <div class="row g-4">
                     <div class="col-12 col-md-6 col-lg-4">
                         <div class="card featured-product-card">
-                            <img src="assets/images/featured/Doorlock-Palm-2.png" class="card-img-top" alt="Product Image">
+                            <div class="ratio ratio-1x1">
+                                <img src="assets/images/featured/Doorlock-Palm-2.png" class="card-img-top" alt="Product Image">
+                            </div>
                             <div class="card-body">
                                 <h5 class="card-title">BARDI Smart Door Lock Palm</h5>
                                 <p class="card-text">BARDI Smart Door Lock Palm merupakan gagang pintu berikut kunci yang bisa dibuka via Telapak tangan, aplikasi, kartu RFID, PIN, dan kunci mechanical.</p>

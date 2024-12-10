@@ -25,7 +25,7 @@
                             <img src="assets/images/featured/Untitled-1-4.webp" class="card-img-top" alt="Product Image">
                             <div class="card-body">
                                 <h5 class="card-title">G-LENZ GPCA-29820</h5>
-                                <p class="card-text">ANALOG HIGH DEFINATION NIGHT COLOR</p>
+                                <p class="card-text">ANALOG HIGH DEFINITION NIGHT COLOR 2MP Rotate</p>
                                 <p class="card-text"><strong>Rp. 499,000</strong></p>
                                 <a href="#" class="btn btn-primary" id="addToCart">Add to Cart</a>
                             </div>
@@ -36,7 +36,7 @@
                             <img src="assets/images/featured/Untitled-4-8.webp" class="card-img-top" alt="Product Image">
                             <div class="card-body">
                                 <h5 class="card-title">G-LENZ GPCA-29821</h5>
-                                <p class="card-text">ANALOG HIGH DEFINATION NIGH COLOR</p>
+                                <p class="card-text">ANALOG HIGH DEFINITION NIGHT COLOR 4MP Zoom</p>
                                 <p class="card-text"><strong>Rp. 799,000</strong></p>
                                 <a href="#" class="btn btn-primary" id="addToCart">Add to Cart</a>
                             </div>
