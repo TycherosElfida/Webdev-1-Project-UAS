@@ -71,14 +71,14 @@
                         <td class="text-success fw-bold">Rp 2.000.000</td>
                         <td class="text-success fw-bold">Rp 2.500.000</td>
                     </tr>
-                    <tr>
-                        <td colspan="4">
-                            <button class="btn btn-primary me-3">Compare Now</button>
-                            <button class="btn btn-secondary">Add to Cart</button>
-                        </td>
-                    </tr>
                 </tbody>
             </table>
+        </div>
+        <div class="row text-center mt-3">
+            <div class="col">
+                <button class="btn btn-primary me-4">Compare Now</button>
+                <button class="btn btn-secondary">Add to Cart</button>
+            </div>
         </div>
     </div>
 </section>

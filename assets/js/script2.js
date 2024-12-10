@@ -54,4 +54,13 @@ $(document).ready(function() {
         const id = $(this).data('id');
         $(this).closest('.cart-item').remove();
     });
+
+    $('.remove-compare').on('click', function () {
+        const id = $(this).data('id');
+        $(this).closest('th').remove(); // Remove column header
+        $('tbody tr').each(function () {
+            $(this).find('td').eq(id - 1).remove(); // Remove corresponding column
+        });
+    });
+    
 });
