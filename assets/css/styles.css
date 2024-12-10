@@ -163,13 +163,13 @@ footer p{
 /* bagian packages */
 
 .Packages-Hero .hero-section {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/packages/8182696cac2fd2d3a5296f9715290ddf.jpg') no-repeat center center/cover;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/packages/OmniVision_Applications_Security_Use-Cases_FixedBulletCamera_HeroBanner-768x293.jpg) no-repeat top center/cover;
   color: #ffffff; /* Warna teks putih */
 }
 
-/* .Packages-Hero .hero-section h1 {
+.Packages-Hero .hero-section h1 {
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
-} */
+}
 
 .Packages-Hero .hero-section a.btn {
   font-size: 18px;

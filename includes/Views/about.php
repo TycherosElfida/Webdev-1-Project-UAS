@@ -4,7 +4,7 @@
 			<div class="col-lg-6 col-md-10">
 				<h1>Your Trusted Partner in Security Solutions.</h1>
 				<p> Ensuring peace of mind for homes and businesses with reliable, high-quality CCTV installations tailored to meet your unique needs. </p>
-				<a href="#services" class="btn btn-primary">Explore Now</a>
+				<a href="index.php?page=packages" class="btn btn-primary">Explore Now</a>
 			</div>
 			<div class="col-lg-6 col-md-2"></div>
 		</div>

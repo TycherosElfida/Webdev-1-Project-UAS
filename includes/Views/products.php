@@ -50,7 +50,7 @@
                 
                 <div class="accordion-item">
                     <h2 class="accordion-header">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#irdistance" aria-expanded="false">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#irdistance" aria-expanded="false">
                             IR Distance
                         </button>
                     </h2>
