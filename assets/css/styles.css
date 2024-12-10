@@ -1,0 +1,266 @@
+/* Keseluruhan */
+body {
+  background-color: #F7F9FC;
+  font-family: -apple-system, BlinkMacSystemFont, Poppins, Inter, Helvetica, sans-serif;
+}
+p {
+  font-size: 18px;
+  margin: 20px 0;
+}
+
+/* Navbar */
+.navbar-custom {
+  background-color: #343a40; /* Dark background */
+}
+.navbar-custom .nav-link {
+  color: #fff;
+  transition: color 0.3s;
+}
+.navbar-custom .nav-link:hover {
+  color: #ffc107;
+}
+.navbar-toggler {
+  border-color: #fff;
+}
+.icon img{
+  fill: black;
+}
+
+/* footer */
+footer {
+  background-color: #4A5468;
+}
+footer hr {
+  border-color: #fff;
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+
+/* 404 */
+.error-container {
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+.error-container h1 {
+  font-size: 100px;
+  color: #dc3545;
+}
+.error-container h2 {
+  font-size: 24px;
+}
+.error-container p {
+  font-size: 16px;
+}
+
+/* Account */
+.auth-container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Hero untuk about us */
+.hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/About/bc4a11f7cdaa6d2f52fda7ee403d6591.jpg') no-repeat center center/cover;
+  color: white;
+  padding: 200px 0;
+}
+.hero h1 {
+  font-size: 48px;
+  font-weight: 700;
+}
+.hero p {
+  font-size: 20px;
+  margin: 20px 0;
+}
+.hero .btn-primary {
+  font-size: 16px;
+  padding: 10px 30px;
+}
+
+footer p{
+  font-size: 16px;
+}
+
+.author {
+  font-weight: 200;
+}
+
+.our-clients .carousel-inner .bigger-image {
+  max-height: 150px;
+}
+.our-clients .carousel-inner img {
+  max-height: 100px;
+}
+
+.category-btn {
+  cursor: pointer;
+  transition: background-color 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #6c757d;
+  border-radius: 50px;
+  padding: 0.5rem;
+  gap: 1rem;
+  color: #6c757d;
+  text-align: center;
+  transition: color 0.3s;
+}
+
+.category-btn.active {
+  background-color: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+
+/* bagian card featured product */
+.featured-product-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.2s;
+}
+
+.featured-product-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.installation-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.image-placeholder {
+  height: 150px;
+  width: 100%;
+  background-color: #e9ecef;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+}
+.card-body {
+  padding: 10px;
+}
+
+
+/* bagian packages */
+
+.Packages-Hero .hero-section {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/packages/8182696cac2fd2d3a5296f9715290ddf.jpg') no-repeat center center/cover;
+  color: #ffffff; /* Warna teks putih */
+}
+
+/* .Packages-Hero .hero-section h1 {
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+} */
+
+.Packages-Hero .hero-section a.btn {
+  font-size: 18px;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.Packages-Hero .hero-section a.btn:hover {
+  background-color: #43a047;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.4);
+}
+
+/* bagian item terutama untuk gambar */
+.individual-item .main-image img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.individual-item .thumbnail-btn {
+  padding: 5px;
+  border-radius: 8px;
+}
+
+.individual-item .thumbnail-btn img {
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.individual-item .thumbnail-btn:hover img {
+  border: 2px solid #0d6efd;
+}
+
+.package-card .placeholder {
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e9ecef;
+  border-radius: 8px;
+}
+.package-card ul {
+  padding: 0;
+}
+.package-card ul li {
+  margin-bottom: 5px;
+}
+.nav-pills .nav-link {
+  border-radius: 50px;
+}
+
+.cart-item img {
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.cart-summary {
+  background-color: #f9f9f9;
+}
+
+.quantity-controller button {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.border {
+  border-color: #dee2e6 !important;
+}
+
+#checkoutForm input,
+#checkoutForm textarea {
+  border-radius: 8px;
+}
+
+.order-summary,
+.payment-section,
+.billing-section,
+.shipping-section {
+  background-color: #f8f9fa;
+}
+
+.payment-section button {
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.produk2 .a{
+  text-decoration: none;
+  color: inherit;
+  outline: 0;
+  cursor: auto;
+}
