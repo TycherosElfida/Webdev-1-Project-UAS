@@ -37,9 +37,9 @@
                         </div>
                         <div class="d-flex align-items-center">
                             <div class="quantity-controller d-flex align-items-center">
-                                <button class="btn btn-outline-secondary btn-sm me-2 decrease-quantity" data-id="1">-</button>
-                                <span class="quantity-value fw-bold" id="quantity-1">1</span>
-                                <button class="btn btn-outline-secondary btn-sm ms-2 increase-quantity" data-id="1">+</button>
+                                <button class="btn btn-outline-secondary btn-sm me-2 decrease-quantity" data-id="2">-</button>
+                                <span class="quantity-value fw-bold" id="quantity-2">1</span>
+                                <button class="btn btn-outline-secondary btn-sm ms-2 increase-quantity" data-id="2">+</button>
                             </div>
                             <button class="btn btn-danger btn-sm ms-4 remove-item" data-id="1">Remove</button>
                         </div>
