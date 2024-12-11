@@ -31,7 +31,7 @@
   <div class="container">
     <div class="row">
       <div class="col">
-        <div class="d-flex flex-row align-items-center justify-content-center gap-3 mb-4">
+        <div class="d-flex flex-wrap align-items-center justify-content-center gap-3 mb-4">
           <button class="category-btn active" data-category="includes/sections/wire-free-cameras.php">Wire-free Cameras</button>
           <button class="category-btn" data-category="includes/sections/indoor-cameras.php">Indoor Cameras</button>
           <button class="category-btn" data-category="includes/sections/outdoor-cameras.php">Outdoor Cameras</button>

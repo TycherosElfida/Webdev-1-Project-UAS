@@ -261,3 +261,41 @@ footer p{
   outline: 0;
   cursor: auto;
 }
+
+.why-choose-us {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  padding: 40px 20px;
+}
+
+.why-choose-us h1 {
+  font-size: 2.5rem;
+  color: #343a40;
+}
+
+.why-choose-us .border {
+  border: 2px solid #007bff;
+}
+
+.why-choose-us h5 {
+  font-size: 1.2rem;
+  color: #495057;
+}
+
+.why-choose-us .image-container {
+  width: 100%;
+  height: 0;
+  padding-bottom: 100%;
+  margin-bottom: 1rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.why-choose-us .image-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
