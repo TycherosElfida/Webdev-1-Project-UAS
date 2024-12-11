@@ -1,7 +1,7 @@
 <div class="container-fluid my-5 ">
     <div class="row">
         <!-- Sidebar Filter -->
-        <div class="col-lg-3 col-md-4">
+        <div class="col-lg-3 col-md-4 mb-4">
             <div class="accordion" id="filterAccordion">
                 <!-- Filter Section -->
                 <div class="accordion-item">

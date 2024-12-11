@@ -8,4 +8,5 @@
     <p class="text-center">Sometimes i do something weird, and it's normal.</p>
     <p class="text-center">So if you see me "nge-reog" feel free to give me a pat ^.^ hehe..</p>
     <button id="goHome" class="btn btn-primary">Go Back Home</button>
+    <br>
 </div>
