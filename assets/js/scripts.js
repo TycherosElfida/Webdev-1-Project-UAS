@@ -65,7 +65,7 @@ $(document).ready(function() {
 
   // buat otomatis load bagian homepage yang category
   const defaultFile = $('.category-btn.active').data('category');
-  $('#category-content').on('load',defaultFile);
+  $('#category-content').load(defaultFile);
 
   $('.category-btn').click(function() {
       $('.category-btn').removeClass('active'); //tuker class active
@@ -73,7 +73,7 @@ $(document).ready(function() {
 
       const file = $(this).data('category');
 
-      $('#category-content').on('load',file);
+      $('#category-content').load(file);
   });
 
   $('.btn-primary').hover(
