@@ -95,18 +95,14 @@
         </div>
         <br>
         <div class="d-flex justify-content-center align-items-center">
-          <div class="row text-center">
+          <div class="row justify-content-center text-center g-2">
             <div class="col-auto">
-              <a class="btn btn-primary btn-lg" id="check-more-packages">
-                <strong>Check More!</strong>
-              </a>
+              <a class="btn btn-primary btn-lg" id="check-more-packages">Check More!</a>
             </div>
             <div class="col-auto">
               <a class="btn btn-primary btn-lg" id="contact-us">
-                <strong>
                   <i class="fa-brands fa-whatsapp fa-xl" style="color: #25d366;"></i>
                   <span style="color: #25d366;" class="ps-1">Contact Us!</span>
-                </strong>
               </a>
             </div>
           </div>

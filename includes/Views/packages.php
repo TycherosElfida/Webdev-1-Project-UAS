@@ -9,7 +9,7 @@
             <p class="lead fw-bold mb-4 text-warning">
                 Jangan ragu, amankan properti Anda sekarang!
             </p>
-            <a href="https://api.whatsapp.com/send?phone=6281234567890&text=Halo%20saya%20ingin%20konsultasi%20tentang%20paket%20CCTV%20Anda." 
+            <a href="https://api.whatsapp.com/send/?phone=+6281320398648&text=Hello!%20I%20am%20interested%20in%20your%20CCTV%20services.%20Can%20you%20provide%20more%20details?"
             target="_blank" 
             class="btn btn-success btn-lg d-flex align-items-center justify-content-center mx-auto" 
             style="max-width: 300px;">
