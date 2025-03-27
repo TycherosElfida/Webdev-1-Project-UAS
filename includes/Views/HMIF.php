@@ -44,7 +44,7 @@
 
         for(let i = 1; i <= totalSlides; i++) {
             const slide = document.createElement('section');
-            slide.setAttribute('data-background', `../assets/images/Home/${i}.png`);
+            slide.setAttribute('data-background', `assets/images/ppt-hmif/${i}.png`);
             slide.setAttribute('data-background-size', 'contain');
             slidesContainer.appendChild(slide);
         }
